@@ -1,3 +1,4 @@
+import React from 'react'
 import PhotoUploadApp from './components/PhotoUploadApp'
 
 function App() {
